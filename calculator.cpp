@@ -8,3 +8,5 @@ int main(){
 		scanf("%f",&num2);
 
 	printf("Additionn : %.2f\n",num1+num2);
+	printf("Substraction : %.2f\n",num1-num2);
+
