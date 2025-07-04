@@ -9,4 +9,4 @@ int main(){
 
 	printf("Additionn : %.2f\n",num1+num2);
 	printf("Substraction : %.2f\n",num1-num2);
-
+        printf("Multiplication : %.2f\n",num1*num2);
